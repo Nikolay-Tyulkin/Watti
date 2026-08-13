@@ -39,8 +39,9 @@ This is the order I'm working in. It may change as the prototype finds new ways 
 1. Build the lamp prototype. ✅ ([video](https://www.youtube.com/shorts/RNfTPX3ZyCU))
 2. Build the Watti Studio prototype. ✅ ([video](https://www.youtube.com/shorts/8JjrI_3LMm4))
 3. Add lighting control. ✅ ([video](https://www.youtube.com/shorts/xLPSfVRswmg))
-4. Integrate and configure the depth camera. 🛠️
-5. Teach Watti to move.
+4. Integrate and configure the depth camera. ([video](https://youtube.com/shorts/2RgtMTqhEyE))✅
+5. Teach Watti to move. ([video](https://youtube.com/shorts/_YJVPZ9At0A?si=_c9Ts3NbEwyz8PON))
+ 🛠️
 6. Run a public test of Watti Studio.
 7. **Crush the letter “I.”**
 8. Release the source code.
