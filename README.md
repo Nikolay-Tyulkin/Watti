@@ -3,7 +3,10 @@
 ### A desk lamp that's learning to be more than a lamp
 
 <p align="left">
+  <a href="https://studio.watti.dev/"><img src="https://img.shields.io/badge/Try_Watti_Studio-Open_in_browser-7C3AED?logo=googlechrome&logoColor=white" alt="Open Watti Studio"></a>
+  <a href="https://rl.watti.dev/"><img src="https://img.shields.io/badge/Play_Robot_League-Launch_game-16A34A" alt="Play Robot League"></a>
   <a href="https://www.youtube.com/@nikolay_tyulkin"><img src="https://img.shields.io/badge/YouTube-Watti-FF0000?logo=youtube&logoColor=white" alt="Watti on YouTube"></a>
+  <a href="https://www.instagram.com/nikolay_tyulkin/"><img src="https://img.shields.io/badge/Instagram-nikolay__tyulkin-E4405F?logo=instagram&logoColor=white" alt="Nikolay Tyulkin on Instagram"></a>
   <a href="https://www.reddit.com/user/Ok_Stress3654/"><img src="https://img.shields.io/badge/Reddit-Ok__Stress3654-FF4500?logo=reddit&logoColor=white" alt="Watti on Reddit"></a>
   <a href="https://www.linkedin.com/in/nick-tyulkin-a6b486315/"><img src="https://img.shields.io/badge/LinkedIn-Nikolay_Tyulkin-0A66C2?logo=linkedin&logoColor=white" alt="Nikolay Tyulkin on LinkedIn"></a>
 </p>
@@ -16,7 +19,7 @@ Watti started with a simple question: what if a desk lamp could notice what you'
 Today it can play light scenes made in Watti Studio. I'm now adding a depth camera; movement comes next. The longer-term goal is a lamp that can light the part of the desk you're working on, scan objects, react to its surroundings, and act as a small desktop assistant. It will still work as a lamp too. That part seemed worth keeping.
 
 <p align="left">
-  <img src="media/hero/watti-hero.png" alt="Watti robotic lamp" width="250">
+  <img src="media/hero/watti-hero.png" alt="Watti logo" width="700">
 </p>
 
 The project has two parts:
@@ -40,17 +43,16 @@ This is the order I'm working in. It may change as the prototype finds new ways 
 2. Build the Watti Studio prototype. ✅ ([video](https://www.youtube.com/shorts/8JjrI_3LMm4))
 3. Add lighting control. ✅ ([video](https://www.youtube.com/shorts/xLPSfVRswmg))
 4. Integrate and configure the depth camera. ([video](https://youtube.com/shorts/2RgtMTqhEyE))✅
-5. Teach Watti to move. ([video](https://youtube.com/shorts/_YJVPZ9At0A?si=_c9Ts3NbEwyz8PON))
- 🛠️
-6. Run a public test of Watti Studio.
-7. **Crush the letter “I.”**
-8. Release the source code.
+5. Teach Watti to move and jump. 🛠️ ([video](https://youtube.com/shorts/_YJVPZ9At0A?si=_c9Ts3NbEwyz8PON), [video](https://www.instagram.com/p/DdH2O7eI5tQ/))
+6. Add procedural animation: track hands and keep the active work area lit. ([video](https://www.instagram.com/p/Dc3e0IpIBvs/))
+7. Run a public test of Watti Studio. ([open Watti Studio](https://studio.watti.dev/))
+8. **Crush the letter “I.”**
+9. Release the source code.
 
-Step seven is a real milestone. Context will only make it slightly less strange.
+Step eight is a real milestone. Context will only make it slightly less strange.
 
 ### After the source release
 
-- Track hands and light the area where I'm working.
 - Scan the desk, the room, and individual objects in 3D.
 - Add an agent mode with MCP, voice control, and autonomous behavior.
 - Try ideas suggested by people using Watti.
