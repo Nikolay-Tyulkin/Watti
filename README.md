@@ -56,6 +56,7 @@ Step eight is a real milestone. Context will only make it slightly less strange.
 - Scan the desk, the room, and individual objects in 3D.
 - Add an agent mode with MCP, voice control, and autonomous behavior.
 - Try ideas suggested by people using Watti.
+- build a disco ball into the head of the lamp. ([for PiratesOfTheArctic](https://www.reddit.com/u/PiratesOfTheArctic/s/9Zqwoc8T0A))
 
 ## Watti Studio
 
