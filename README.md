@@ -29,8 +29,6 @@ The project has two parts:
 
 You won't need to write firmware to make a light scene. Build it in the editor, preview it, and send it to Watti.
 
-Technical details: [Architecture](docs/ARCHITECTURE.md) · [Hardware](docs/HARDWARE.md)
-
 <p align="left">
   <img src="media/gifs/watti-dancin.webp" alt="Watti moving on a desk" width="700">
 </p>
