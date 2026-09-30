@@ -4,7 +4,6 @@
 
 <p align="left">
   <a href="https://studio.watti.dev/"><img src="https://img.shields.io/badge/Try_Watti_Studio-Open_in_browser-7C3AED?logo=googlechrome&logoColor=white" alt="Open Watti Studio"></a>
-  <a href="https://rl.watti.dev/"><img src="https://img.shields.io/badge/Play_Robot_League-Launch_game-16A34A" alt="Play Robot League"></a>
   <a href="https://www.youtube.com/@nikolay_tyulkin"><img src="https://img.shields.io/badge/YouTube-Watti-FF0000?logo=youtube&logoColor=white" alt="Watti on YouTube"></a>
   <a href="https://www.instagram.com/nikolay_tyulkin/"><img src="https://img.shields.io/badge/Instagram-nikolay__tyulkin-E4405F?logo=instagram&logoColor=white" alt="Nikolay Tyulkin on Instagram"></a>
   <a href="https://www.reddit.com/user/Ok_Stress3654/"><img src="https://img.shields.io/badge/Reddit-Ok__Stress3654-FF4500?logo=reddit&logoColor=white" alt="Watti on Reddit"></a>
